@@ -1,0 +1,25 @@
+Turku;Archipelagia Golf Club;Mikko;-4  
+Turku;Aurinko Golf;Mikko;-3  
+Turku;Aurinko Golf;Mikko;-2  
+Turku;Archipelagia Golf Club;Mikko;-1  
+Turku;Aurinko Golf;Mikko;-1  
+Turku;Aurinko Golf;Mikko;0  
+Turku;Kultaranta Golf;Mikko;0  
+Turku;Kultaranta Golf;Mikko;+1  
+Turku;Kultaranta Golf;Mikko;+3  
+Tampere;Hiisi-Golf;Matti;+19  
+Tampere;Hiisi-Golf;Matti;+27  
+Tampere;Hiisi-Golf;Minna;+30  
+Tampere;Hiisi-Golf;Minna;+33  
+Tampere;Pirkanmaan Golf;Minna;+39  
+Tampere;Hiisi-Golf;Esko;+52  
+Pori;Porin Golfkerho;Jussi;+42  
+Turku;Aurinko Golf;Tauno;+32 
+Tampere;Pirkanmaan Golf;Matilda;+1  
+Tampere;Hiisi-Golf;Matilda;+1  
+Tampere;Pirkanmaan Golf;Matilda;+1  
+Turku;Aurinko Golf;Matilda;+1  
+Turku;Kultaranta Golf;Matilda;+1  
+Pori;Porin Golfkerho;Matilda;+2  
+Pirkkala;Golf Pirkkala;Matilda;+3  
+Lempaala;Hiisi-Golf;Matilda;+3 
