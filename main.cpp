@@ -1,27 +1,5 @@
 /* Golf
- *
- * Desc:
- *   This program reads input data concerning golf statistics from
- * an input file, the lines of which are of the form:
- * location;club_name;player_name;score.
- * The program checks if each line consists of the abovementioned four
- * data fields.
- *   The data written in the file is collected into an appropriate data
- * structure consisting of STL containers and structs. After that the user
- * can make searches for the data structure by using the commands
- * places, clubs, rounds, played, and compare. These commands
- * have a varying number of parameters, and the program checks if the
- * user gave a correct number of parameters and if the given parameters
- * (place, club, player) can be found from the data structure.
- *   The program terminates with the command quit.
- *
- * Program author
- * Name: Nabid Hasan
- * Student number: 152754330
- * UserID: vmn388
- * E-Mail: nabid.hasan@tuni.fi
- *
- * Notes about the program and it's implementation (if any):
+
  *
  * */
 
